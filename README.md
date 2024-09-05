@@ -60,6 +60,11 @@ To run this project locally:
 2. Open `index.html` in your web browser.
 3. Click the "Start" button to begin the random color generation, and click the "Stop" button to halt it.
 
-for More contact: haris35088@gmail.com
+for More contact: 
+1) haris35088@gmail.com
+2) www.linkedin.com/in/muhammad-haris88
+
+
+
 
 
